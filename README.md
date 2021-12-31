@@ -5,6 +5,7 @@
 This project involves challenges like creating your own blockchain, distributing the blockchain over the network of nodes, mining blocks, transactions of cryptocurrency with additional security, creating smart contracts for your crypto distribution─**
 
 Project Report: https://docs.google.com/document/d/1fRwJWzSNnm2KDcVd8AcH2ZxtNFeX9BJ7_llHeNzsXpY/edit?usp=sharing
+
 Notes on Blockchain https://docs.google.com/document/d/18hdaysDsbcM7wXYv8jmEpl7z7Z-JqYXjhd-9UXShawc/edit?usp=sharing
 
 
